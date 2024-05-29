@@ -78,4 +78,4 @@ This project aims to explore the Walmart Sales data to understand top performing
 9. Which day fo the week has the best avg ratings?
 10. Which day of the week has the best average ratings per branch?
 
-The repo is inspired by link [https://www.youtube.com/watch?v=36fBGMT0tuE]
+The repo is inspired by [link](https://www.youtube.com/watch?v=36fBGMT0tuE)
